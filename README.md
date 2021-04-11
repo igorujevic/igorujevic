@@ -29,7 +29,7 @@ Curently working for Fuel Gaming. <strong>JavaScript full-stack developer</stron
 </i>
 
 <i>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mariadb.svg" width="40" style="margin-right: 1rem;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" width="40" style="margin-right: 1rem;"/>
 </i>
 
 <i>
