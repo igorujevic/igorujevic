@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-<p style="text-align: justify;">I'm <a href="#">Igor Ujević</a> from Croatia and I'm web developer, <strong>JavaScript full-stack developer</strong>. I love writing code and I'm extremely motivated, with clearly defined goals. I'm eager to advance my skills and competencies the best I possibly can. Communicative and ready to work in a team, ready to work and progress. Flexible and easily adaptable to new conditions. Responsible and open to new ideas.</p><br><br>
+<p style="text-align: justify;">I'm <a href="#">Igor Ujević</a> from Croatia and I'm web developer, <strong>JavaScript full-stack developer</strong>. 
 
-<img align="left" alt="GIF" src="assets/ezgif.com-gif-maker.gif" width="200" height="120" style="margin-right: 1rem;"/>
+Experienced JavaScript Developer | Proficient in Node.js and React.js | Master's degree focused in Computer Science | Entrepreneurial Spirit
 
 ### Contact
 
